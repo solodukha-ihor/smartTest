@@ -1,6 +1,6 @@
 # smartTest
-You can add the launch.json file to the .vscode folder or manually replace "startupObjectId": 50110
-below are screenshots of the app itself
+You can add the launch.json file to the .vscode folder or manually replace "startupObjectId": 50110.
+Below are screenshots of the app itself
 
 ![Снимок экрана 2024-04-05 185606](https://github.com/solodukha-ihor/smartTest/assets/128428481/b9660d1c-74e7-46f6-bf96-ac8644d5c5c6)
 ![Снимок экрана 2024-04-05 185642](https://github.com/solodukha-ihor/smartTest/assets/128428481/776c2de6-77e1-449b-9987-e56c6e98f4bc)
